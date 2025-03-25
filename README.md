@@ -3,10 +3,15 @@ This repository showcases clones of popular websites like Amazon, Netflix, Spoti
 
 # Projects Included
 
-1. **Amazon Clone:** A replica of the front page of Amazon, showcasing product listings, categories, and search functionalities.
-2. **Netflix Clone:** A recreation of Netflix's homepage, featuring content categories, trending sections, and a responsive layout.
-3. **Spotify Clone:** A clone of Spotify’s interface, with a focus on album listings and interactive user navigation. (Note: Ensure to include your own song folder while running the Spotify clone.)
-4. **Twitter Clone:** A similar interface to Twitter's homepage, showcasing tweets, profiles, and navigation components.
+1. **Amazon Clone :** A replica of the front page of Amazon, showcasing product listings, categories, and search functionalities.
+2. **Netflix Clone :** A recreation of Netflix's homepage, featuring content categories, trending sections, and a responsive layout.
+3. **Spotify Clone :** A clone of Spotify’s interface, with a focus on album listings and interactive user navigation. (Note: Ensure to include your own song folder while running the Spotify clone.)
+4. **Twitter Clone :** A similar interface to Twitter's homepage, showcasing tweets, profiles, and navigation components.
+
+# Features
+
+1. **Responsive Layouts :** Each project is designed to be fully responsive for different screen sizes.
+2. **Interactive UI :** Navigation elements and user interface components closely mirror their original counterparts.
 
 # Tech Stack
 
